@@ -1,5 +1,5 @@
 # About
-This is a visualizer for the A* pathfinding algorithm. Its a small program ment to show how the algorithm works.
+This is a visualizer for the A* pathfinding algorithm. Its a small program ment to demonstrate how the algorithm works.
 
 # requirement
 Install ***pygame*** if you don't already have it! The easiest way is through the command prompt you can type either of the two below.
@@ -20,4 +20,4 @@ copy and paste if you want and if that doesn't work make sure your pip is workin
 # Notes
 - Once the algorithm starts you can't hit a button until it finishs. 
 
-- Diagonals still find the shortest distance between the two spots it just doesn't look the prettiest since the heuristic function was initally ment for the non diagonal veriation but works pretty much perfectly in the final product.
+- Diagonals still find the shortest distance between the two spots it just doesn't look the prettiest since the heuristic function was initally ment for the non diagonal veriation but works perfectly for what it is intended to do in the final product.
