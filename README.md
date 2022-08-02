@@ -9,7 +9,6 @@ pip install pygame **or** pip3 install pygame
 copy and paste if you want and if that doesn't work make sure your pip is working properly.
 
 ## Controls
-<hr>
 
 ***Left Click*** changes the nodes from white to start, end, or barrier. If start and end doesn't exist yet it will make it first
 <br>
