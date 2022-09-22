@@ -20,4 +20,4 @@ copy and paste if you want and if that doesn't work make sure your pip is workin
 # Notes
 - Once the algorithm starts you can't hit a button until it finishs. 
 
-- Diagonals still find the shortest distance between the two spots it just doesn't look the prettiest since the heuristic function was initally ment for the non diagonal veriation but works perfectly for what it is intended to do in the final product.
+- Pygame has a tendency to crash during lengthy processing times to prevent this don't drag the window while it is running or select another application.
